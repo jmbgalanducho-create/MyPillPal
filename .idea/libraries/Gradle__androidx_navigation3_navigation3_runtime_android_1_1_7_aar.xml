@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation3:navigation3-runtime-android:1.1.7@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/9.4.1/transforms/99858895c0f600fe0049091bfed41c37/transformed/navigation3-runtime/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/9.4.1/transforms/99858895c0f600fe0049091bfed41c37/transformed/navigation3-runtime/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/9.4.1/transforms/99858895c0f600fe0049091bfed41c37/transformed/navigation3-runtime/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation3/navigation3-runtime-android/1.1.7/a6fb7928336363457986a96b7b901dfcc0694b6e/navigation3-runtime-android-1.1.7-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation3/navigation3-runtime-android/1.1.7/c26765a5e058d5a9f35d1f0ed971656fb7ef2099/navigation3-runtime-1.1.7-samples-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

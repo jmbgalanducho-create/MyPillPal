@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.window:window:1.5.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/9.4.1/transforms/58a8819fc32aef0888ed6dfa239dca4f/transformed/window-1.5.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/9.4.1/transforms/58a8819fc32aef0888ed6dfa239dca4f/transformed/window-1.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/9.4.1/transforms/58a8819fc32aef0888ed6dfa239dca4f/transformed/window-1.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.window/window/1.5.0/847286072aca2a5a6e527590b369453a53c61671/window-1.5.0-samples-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.window/window/1.5.0/a7ffe88f9c114202c91993fb591585528221657c/window-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

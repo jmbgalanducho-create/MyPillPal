@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alert">Añadir Alerta</string>
+    <string name="add_medication">Añadir Medicamento</string>
+    <string name="adherence_history">Historial de Adherencia</string>
+    <string name="app_name">MyPillPal</string>
+    <string name="back">Atrás</string>
+    <string name="cancel">Cancelar</string>
+    <string name="daily">Diariamente</string>
+    <string name="dashboard_title">Panel de MyPillPal</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_confirmation_message">¿Estás seguro de que deseas eliminar esta alerta de medicamento?</string>
+    <string name="delete_confirmation_title">¿Eliminar Alerta?</string>
+    <string name="dosage_label">Dosis (ej: 500mg)</string>
+    <string name="edit_medication">Editar Medicamento</string>
+    <string name="frequency_label">Frecuencia</string>
+    <string name="friday">Vie</string>
+    <string name="history">Historial</string>
+    <string name="language">Idioma</string>
+    <string name="mark_taken">Marcar como Tomado</string>
+    <string name="med_name">Nombre del Medicamento</string>
+    <string name="monday">Lun</string>
+    <string name="next_dose">Próxima dosis: %s</string>
+    <string name="no_history">Aún no hay historial registrado.</string>
+    <string name="no_medications">No hay medicamentos programados.</string>
+    <string name="ok">Aceptar</string>
+    <string name="reminder_time_label">Hora del Recordatorio (HH:mm)</string>
+    <string name="saturday">Sáb</string>
+    <string name="save_medication">Guardar Medicamento</string>
+    <string name="schedule_first">Programar Primer Medicamento</string>
+    <string name="select_med_placeholder">Seleccione un medicamento para ver detalles o editar.</string>
+    <string name="settings">Ajustes</string>
+    <string name="sunday">Dom</string>
+    <string name="taken_at">Tomado a las: %s</string>
+    <string name="thursday">Jue</string>
+    <string name="todays_schedule">Horario de Hoy</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mié</string>
+</resources>

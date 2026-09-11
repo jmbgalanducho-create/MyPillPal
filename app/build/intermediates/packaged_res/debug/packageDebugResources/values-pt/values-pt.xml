@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alert">Adicionar Alerta</string>
+    <string name="add_medication">Adicionar Medicamento</string>
+    <string name="adherence_history">Histórico de Adesão</string>
+    <string name="app_name">MyPillPal</string>
+    <string name="back">Voltar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="daily">Diariamente</string>
+    <string name="dashboard_title">Painel MyPillPal</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_confirmation_message">Tem certeza que deseja excluir este alerta de medicamento?</string>
+    <string name="delete_confirmation_title">Excluir Alerta?</string>
+    <string name="dosage_label">Dosagem (ex: 500mg)</string>
+    <string name="edit_medication">Editar Medicamento</string>
+    <string name="frequency_label">Frequência</string>
+    <string name="friday">Sex</string>
+    <string name="history">Histórico</string>
+    <string name="language">Idioma</string>
+    <string name="mark_taken">Marcar como Tomado</string>
+    <string name="med_name">Nome do Medicamento</string>
+    <string name="monday">Seg</string>
+    <string name="next_dose">Próxima dose: %s</string>
+    <string name="no_history">Nenhum histórico registrado ainda.</string>
+    <string name="no_medications">Nenhum medicamento agendado.</string>
+    <string name="ok">OK</string>
+    <string name="reminder_time_label">Hora do Lembrete (HH:mm)</string>
+    <string name="saturday">Sáb</string>
+    <string name="save_medication">Salvar Medicamento</string>
+    <string name="schedule_first">Agendar Primeiro Medicamento</string>
+    <string name="select_med_placeholder">Selecione um medicamento para ver detalhes ou editar.</string>
+    <string name="settings">Configurações</string>
+    <string name="sunday">Dom</string>
+    <string name="taken_at">Tomado em: %s</string>
+    <string name="thursday">Qui</string>
+    <string name="todays_schedule">Agenda de Hoje</string>
+    <string name="tuesday">Ter</string>
+    <string name="wednesday">Qua</string>
+</resources>
